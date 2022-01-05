@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/IC1101Virgo/IC1101Virgo/output/github-contribution-grid-snake.svg " />
 
-### ⚡ Fun fact:
+### ⚡ Laugh a little
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry)
 
 <!--
