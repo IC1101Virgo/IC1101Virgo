@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 
 <img src="https://raw.githubusercontent.com/IC1101Virgo/IC1101Virgo/output/github-contribution-grid-snake.svg " />
 
