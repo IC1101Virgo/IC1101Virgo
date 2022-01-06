@@ -4,8 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/IC1101Virgo/IC1101Virgo/output/github-contribution-grid-snake.svg " />
 
-<a href="https://github.com/marketplace/actions/quote-readme">
-
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
