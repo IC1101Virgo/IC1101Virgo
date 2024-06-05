@@ -1,9 +1,5 @@
 
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" height="270"/>
-
-<img src="https://raw.githubusercontent.com/IC1101Virgo/IC1101Virgo/output/github-contribution-grid-snake.svg " />
-
 
 <!--
 **IC1101Virgo/IC1101Virgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
